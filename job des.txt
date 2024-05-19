@@ -1,0 +1,26 @@
+We are seeking a highly motivated and experienced Software Engineer to join our dynamic team. The ideal candidate will have a strong background in software development, excellent problem-solving skills, and the ability to work effectively in a collaborative environment.
+
+Key Responsibilities:
+- Develop, test, and maintain high-quality software applications.
+- Collaborate with cross-functional teams to define and design new features.
+- Troubleshoot and resolve software defects and issues.
+- Participate in code reviews to ensure adherence to coding standards and best practices.
+- Continuously learn and apply new technologies to improve software performance and scalability.
+
+Requirements:
+- Bachelor's degree in Computer Science, Engineering, or a related field.
+- 3+ years of experience in software development.
+- Proficiency in one or more programming languages (e.g., Python, Java, C++).
+- Experience with version control systems (e.g., Git).
+- Strong understanding of software development methodologies (e.g., Agile, Scrum).
+- Excellent communication and teamwork skills.
+
+Preferred Qualifications:
+- Experience with cloud platforms (e.g., AWS, Azure, Google Cloud).
+- Familiarity with front-end technologies (e.g., HTML, CSS, JavaScript).
+- Knowledge of database management systems (e.g., MySQL, PostgreSQL).
+- Previous experience in a fast-paced startup environment.
+
+If you are passionate about software engineering and eager to contribute to the success of a growing company, we encourage you to apply.
+
+Please submit your resume and cover letter for consideration.
