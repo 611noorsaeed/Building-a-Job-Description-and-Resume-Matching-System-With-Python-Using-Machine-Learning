@@ -19,15 +19,4 @@ This project aims to build a job description and resume matching system using Py
 - **HTML/CSS:** Frontend markup and styling for web pages.
 
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
-
-- Hat tip to anyone whose code was used.
-- References to any tutorials, articles, or documentation that helped with the development.
-
-## Contact
-
-For questions or inquiries, please contact [Your Name] at [your-email@example.com].
-
 
