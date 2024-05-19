@@ -23,13 +23,6 @@ This project aims to build a job description and resume matching system using Py
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Special thanks to [Author Name] for inspiration and guidance.
 - Hat tip to anyone whose code was used.
 - References to any tutorials, articles, or documentation that helped with the development.
 
